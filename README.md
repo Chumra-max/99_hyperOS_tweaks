@@ -105,6 +105,9 @@ Actual results depend on device, RAM size, and firmware version.
 
 ---
 
+> **Why "99"?**  
+> The module is named "99" to reflect its balanced approach, optimizing for both battery life and performance on HyperOS devices—striving for harmony rather than extremes.
+
 ## ⚠️ Disclaimer
 
 This module modifies system behavior.
