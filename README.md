@@ -15,7 +15,7 @@ This module **does NOT** perform mass debloating or aggressive kernel hacks.
 ### Scheduler & Latency
 - Improved task scheduling responsiveness
 - Reduced wakeup and context-switch overhead
-- Better handling of short system bursts
+- Better handling of short term load spikes
 
 ### I/O Tweaks
 - Prefer noop I/O scheduler where available
@@ -66,7 +66,7 @@ This module is designed to be predictable, and safe.
 
 All actions are logged and reversible.
 
-**Location:**
+Location: /data/local/temp/hyper_os_tweaks/
 
 **Contents:**
 - `hyperos_tweaks.log` – full execution log
@@ -89,7 +89,7 @@ All actions are logged and reversible.
    - Magisk
    - APatch
 2. Reboot
-3. Check logs at `/sdcard/HyperOS_Tweaks/`
+3. Check logs at /data/local/temp/hyper_os_tweaks
 
 ---
 
