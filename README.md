@@ -41,7 +41,7 @@ This module **does NOT** perform mass debloating or aggressive kernel hacks.
 - Background dexopt trigger
 - No animation or UI changes
 
-### GPU (Safe Properties Only)
+### GPU
 - Enables GPU-based composition paths
 - No frequency manipulation
 
@@ -80,8 +80,6 @@ All actions are logged and reversible.
 - Xiaomi HyperOS devices
 - Root required
 - Tested on HyperOS (Android 14/15 base)
-- Should gracefully skip unsupported paths on other Android ROMs
-
 ---
 
 ## ⚙️ Installation
