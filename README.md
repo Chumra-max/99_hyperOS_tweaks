@@ -96,7 +96,7 @@ Location: /data/local/temp/hyper_os_tweaks/
 ## 🧪 Observed Effects
 
 Users may notice:
-- Reduced lag during short term bursts
+- Reduced lag during load spikes
 - Smoother app switching
 - Fewer background app reloads
 - More consistent UI responsiveness under load
