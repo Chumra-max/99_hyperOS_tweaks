@@ -1,0 +1,7 @@
+id=99_hyperos.tweaks
+name=99_hyper_os_tweaks
+version=1.0
+versionCode=1
+author=Martin
+description=Conservative HyperOS performance + LMK and ZRAM tweaks for better app retention and battery 
+minMagisk=23000
